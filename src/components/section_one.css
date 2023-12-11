@@ -1,0 +1,57 @@
+.section_one{
+    display: flex;
+    padding-bottom: 200px;
+    position: relative;
+}
+.side_image{
+    position: absolute;
+    top: 53%;
+    right: 0%;
+    text-align: right;
+}
+.section_one_left_design{
+    position: relative;
+    width: 550px;
+    height: 550px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-111%, -4%);
+}
+.section_one_left_design img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.section_one_left_design img:first-child{
+    width: 550px;
+    height: 550px;
+}
+.section_one_left_design img{
+    width: 330px;
+    height: 330px;
+}
+.section_one_right{
+    text-align: center;
+    margin: 140px 0 0 100px;
+}
+.section_one_right h1{
+    font-size: 110px;
+    font-family: 'Baloo Bhai';
+    color: #6c9894;
+    font-weight: 400;
+}
+.section_one_right p{
+    color: #6c9894;
+    font-family: 'Montserrat';
+    font-size: 20px;
+}
+.section_one_right span{
+    padding: 5px 20px;
+    background-color: #6c9894;
+    margin-top: 30px;
+    color: #fefefc;
+    display: inline-block;
+    border-radius: 15px;
+    font-family: 'Baloo Bhai';
+}

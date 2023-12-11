@@ -1,0 +1,60 @@
+.section_six{
+    background-color: #6c9894;
+    height: 950px;
+    width: 100%;
+}
+.description{
+    text-align: center;
+    padding: 90px 10px 50px 10px;
+}
+.description h1{
+    font-family: 'Baloo Bhai';
+    font-size: 60px;
+    color: #f4f9f4;
+    font-weight: 400;
+}
+.description p{
+    font-family: 'Montserrat';
+    color: #f4f9f4;
+    font-size: 30px;
+    font-weight: 100;
+}
+.cards_content{
+    width: 370px;
+    height: 490px;
+    background-color: #f4f9f4;
+    border-radius: 10px;
+}
+.cards_content h2{
+    font-family: 'Baloo Bhai';
+    color: #6c9894;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0 0 0;
+    font-weight: 400;
+}
+.cards_content img{
+    padding: 30px 125px 40px 125px;
+}
+.cards_content p{
+    font-family: 'Montserrat';
+    color: #6c9894;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px;
+}
+.cards_content button{
+    padding: 15px 96px;
+    border: none;
+    background-color: #6c9894;
+    border-radius: 5px;
+    font-family: 'Baloo Bhai';
+    color: #fff;
+    margin: 20px;
+    font-size: 20px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,37 @@
+.section_five{
+    display: flex;
+    background-image: url(../../public/images/background8.png);
+    background-repeat: no-repeat;
+    background-position: 942px -30px;
+    background-size: 410px;
+}
+.five_right h1{
+    font-family: 'Baloo Bhai';
+    color: #6c9894;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 70px;
+}
+.five_right p{
+    color: #6c9894;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    padding: 15px 0 35px 0;
+
+}
+.five_right button{
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6c9894;
+    color: #f4f9f4;
+    font-family: 'Baloo Bhai';
+    font-size: 15px;
+}
+.five_left img{
+    max-width: 650px;
+    padding: 100px 70px 70px 70px;
+}
+.five_right{
+    margin: 300px 50px 0 100px
+}
